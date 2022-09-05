@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/faustomontiel" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="faustomontiel" height="35" width="40" /></a>
 <a href="https://t.me/faustomontiel" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="faustomontiel" height="35" width="40" /></a>
-  </br>
-<a href="https://t.me/faustomontiel" target="_blank"><img align="center" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="faustomontiel" height="90" width="90" /></a>
+<a href="https://t.me/faustomontiel" target="_blank"><img align="center" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="faustomontiel" height="120" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
