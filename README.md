@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--<a href="https://t.me/fa" target="_blank"><img align="center" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="faustomontiel" height="150" width="150" /></a>-->
 <a href="https://www.credly.com/badges/431e3d52-2dc3-473e-b9ab-5572d352ca6e/" target="_blank"><img align="center" src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="faustomontiel" height="140" width="140" /></a>
 <a href="https://linkedin.com/in/fa" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="faustomontiel" height="35" width="40" /></a>
-<a href="https://t.me/faustomontiel" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="faustomontiel" height="35" width="40" /></a>
+<a href="https://t.me/faustomontiel" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="faustomontiel" height="35" width="38" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
