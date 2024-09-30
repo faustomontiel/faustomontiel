@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Badges:</h3>
 <p align="left">
 <a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank"><img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="faustomontiel" height="140" width="140" /></a>
 <a href="https://www.credly.com/badges/431e3d52-2dc3-473e-b9ab-5572d352ca6e/" target="_blank"><img align="center" src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="faustomontiel" height="140" width="140" /></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/faustomontiel" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="faustomontiel" height="35" width="40" /></a>
 <a href="https://t.me/faustodeveloper" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="faustomontiel" height="35" width="38" /></a>
 </p>
