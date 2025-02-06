@@ -35,6 +35,14 @@ Here are some ideas to get you started:
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40"/> 
   </a>  
+    <!-- SQL Server-->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/> 
+  </a>  
+    <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>  
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.svg" alt="aws" width="40" height="40"/> 
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
   <!-- Azure -->
   <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> 
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>  
-  <!-- SQL Server-->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/> 
   </a>  
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank"> 
