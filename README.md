@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Badges:</h3>
 <p align="left">
-<a href="https://www.credly.com/earner/earned/badge/28d68c78-1660-437f-98fc-1ae8431e22b8/" target="_blank"><img align="center" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="faustomontiel" height="140" width="140" /></a>
+<a href="https://www.credly.com/badges/28d68c78-1660-437f-98fc-1ae8431e22b8/linked_in_profile" target="_blank"><img align="center" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="faustomontiel" height="140" width="140" /></a>
 <a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank"><img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="faustomontiel" height="140" width="140" /></a>
 <a href="https://www.credly.com/badges/431e3d52-2dc3-473e-b9ab-5572d352ca6e/" target="_blank"><img align="center" src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="faustomontiel" height="140" width="140" /></a>
 
