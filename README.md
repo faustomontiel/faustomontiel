@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faustomontiel" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="faustomontiel" height="35" width="40" /></a>
-<a href="https://t.me/faustodeveloper" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="faustomontiel" height="35" width="38" /></a>
+<a href="https://t.me/faustocloud" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="faustomontiel" height="35" width="38" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
