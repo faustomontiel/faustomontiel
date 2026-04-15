@@ -6,12 +6,12 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/28d68c78-1660-437f-98fc-1ae8431e22b8/linked_in_profile" target="_blank">
-        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="130"/>
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100"/>
       </a>
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank">
-        <img src="https://www.prodigylearning.com/wp-content/uploads/2020/05/001-AZ-900-060520.png" height="130"/>
+        <img src="https://www.prodigylearning.com/wp-content/uploads/2020/05/001-AZ-900-060520.png" height="100"/>
       </a>
     </td>
   </tr>
