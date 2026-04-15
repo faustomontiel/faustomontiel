@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Badges:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/28d68c78-1660-437f-98fc-1ae8431e22b8/linked_in_profile" target="_blank"><img align="center" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="faustomontiel" height="140" width="140" /></a>
-<a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank"><img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="faustomontiel" height="140" width="140" /></a>
+  <a href="https://www.credly.com/badges/28d68c78-1660-437f-98fc-1ae8431e22b8/linked_in_profile" target="_blank">
+    <img align="center" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140" width="140" />
+  </a>
+  <a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank">
+    <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="140" width="140" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
