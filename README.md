@@ -11,7 +11,7 @@
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank">
-        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.png" height="130"/>
+        <img src="https://www.prodigylearning.com/wp-content/uploads/2020/05/001-AZ-900-060520.png" height="130"/>
       </a>
     </td>
   </tr>
