@@ -1,7 +1,5 @@
 <h2 align="center">🚀 Fausto Montiel</h2>
 
----
-
 <h3 align="center">🏅 Certifications</h3>
 
 <table align="center">
@@ -13,13 +11,11 @@
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/es-mx/users/faustomontiel/credentials/b20d07758d64c00f" target="_blank">
-        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="130"/>
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.png" height="130"/>
       </a>
     </td>
   </tr>
 </table>
-
----
 
 <h3 align="center">🤝 Connect with me</h3>
 
@@ -28,8 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 </p>
-
----
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
