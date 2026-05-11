@@ -6,10 +6,10 @@
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
   <a href="https://www.microsoft.com/sql-server"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"/></a>
   <a href="https://aws.amazon.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.svg" width="40"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.svg" width="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
   <a href="https://www.docker.com/"><img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" width="40"/></a>
   <a href="https://developer.hashicorp.com/terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/></a>  
-  <a href="https://azure.microsoft.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.svg" width="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/></a>
